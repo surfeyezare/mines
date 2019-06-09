@@ -1,0 +1,18 @@
+# The goal of the game is to create a replica of Minesweeper that has 9 by 9 squares
+
+
+There should be 
+
+boards 
+    - grids
+    - place the tiles
+    - renders the game
+
+tiles 
+    -squares
+    -holds the Mines
+    -F 
+
+Minesweeper.rb 
+    - manages the game. 
+    - 
