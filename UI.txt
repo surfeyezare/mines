@@ -7,12 +7,17 @@ boards
     - grids
     - place the tiles
     - renders the game
+    - Allows player to choose a position
+    - change the position's value
+    - 
 
 tiles 
-    -squares
-    -holds the Mines
-    -F 
+    - revealed?
+    - hidden?
+    - flagged?
+    - reveal
 
 Minesweeper.rb 
     - manages the game. 
-    - 
+    - run
+    
